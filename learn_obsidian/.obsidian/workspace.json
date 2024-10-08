@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "69543f70fa919e1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f78a731a49743cd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "131f55949ed907b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. rough notes/2. tags , referances and indexes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb2e3f93b8b4cb12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. source materials/1. Youtube Videos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fae300d84379364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. rough notes/1.  common formatting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eadb616dde35de15",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3da571c6ea8c04a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a55bf85c95863762",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bad93dba69dcb3d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7354fff699b3eb36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff20201f148f7eff",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e40f2c8e0ebc1e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa3270c6cebb3f82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. rough notes/2. tags , referances and indexes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a9754d0156c02e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. rough notes/2. tags , referances and indexes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d2664876e5684e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3134c89f24fe1147",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. rough notes/2. tags , referances and indexes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "131f55949ed907b9",
+  "lastOpenFiles": [
+    "1. rough notes/1.  common formatting.md",
+    "2. source materials/1. Youtube Videos.md",
+    "5. Template/Untitled",
+    "1. rough notes/2. tags , referances and indexes.md",
+    "Story Log/Untitled.canvas",
+    "Story Log",
+    "6. Full Notes",
+    "5. Template",
+    "4. Indexes",
+    "3. Tags",
+    "Untitled 1.md",
+    "2. source materials",
+    "1. rough notes",
+    "2024-10-08.md",
+    "Welcome.md"
+  ]
+}
