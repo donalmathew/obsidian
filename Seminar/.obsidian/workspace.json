@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "655efced765b97ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e61ac98046328c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fabe68045bc6ad86",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0976a059032c6397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Resources/links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b2d094d9b09a5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Main notes/1. Introduction/1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c078b103a174c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Tags/2. NoSQL and Polyglot persistence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e6a1b2297f0eba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Tags/2. NoSQL and Polyglot persistence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bae5ff37586b9948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Indexes/seminar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fc17aa7b49d4783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Main notes/report/contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "539009a302208b83",
+    "type": "split",
+    "children": [
+      {
+        "id": "87a2868039d78770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae8b4c201084256d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb72b4aed6482f88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5540515103469696",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1154e88a4b894e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6952bc84822e951d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a8d664d74cf7cda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Main notes/report/contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e2a70786acd2286",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. Main notes/report/contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9074ae03acb6d07a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68540468c90ecf6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Main notes/report/contents.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2fc17aa7b49d4783",
+  "lastOpenFiles": [
+    "4. Indexes/report.md",
+    "5. Main notes/report/introduction.md",
+    "5. Main notes/report/4.md",
+    "5. Main notes/report/contents.md",
+    "5. Main notes/report/abstract.md",
+    "6. Report/init model.md",
+    "5. Main notes/report/references.md",
+    "5. Main notes/report/2.md",
+    "2024-10-11.md",
+    "^bottom.md",
+    "5. Main notes/report/5. conclusion.md",
+    "5. Main notes/report/3.md",
+    "5. Main notes/report",
+    "Pasted image 20241011114510.png",
+    "4. Indexes/seminar.md",
+    "3. Tags/5. research papers.md",
+    "3. Tags/4. Conclusion.md",
+    "3. Tags/3. Distributed Database systems and cap theorem.md",
+    "3. Tags/2. NoSQL and Polyglot persistence.md",
+    "2. Resources/Pasted image 20241008202248.png",
+    "2. Resources/Pasted image 20241008202558.png",
+    "3. Tags/1. introduction.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "5. Main notes/3. Distributed Database systems and cap theorem/3.1 Distributed Database Systems/Distributed.md",
+    "5. Main notes/1. Introduction/1.md",
+    "2. Resources/links.md",
+    "7. Research Papers/1 research papers.md",
+    "3. Tags/report.md",
+    "7. Research Papers/gist.md",
+    "5. Main notes/3. Distributed Database systems and cap theorem/3.2 CAP theorem/CAP Theorem.md",
+    "5. Main notes/2. NoSQL and Polyglot persistence/2.2 Polyglot Persistence/polyglot.md",
+    "5. Main notes/1. Introduction",
+    "7. Research Papers",
+    "6. Report",
+    "5. Main notes/2. NoSQL and Polyglot persistence/2.2 Polyglot Persistence",
+    "5. Main notes/3. Distributed Database systems and cap theorem/3.2 CAP theorem",
+    "5. Main notes/3. Distributed Database systems and cap theorem/3.1 Distributed Database Systems",
+    "5. Main notes/2. NoSQL and Polyglot persistence/2.1 No-SQL",
+    "5. Main notes/3. Distributed Database systems and cap theorem",
+    "5. Main notes/2. NoSQL and Polyglot persistence"
+  ]
+}
