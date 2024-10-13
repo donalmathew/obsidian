@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "69543f70fa919e1a",
+    "id": "9898f3c01a759e68",
     "type": "split",
     "children": [
       {
-        "id": "f78a731a49743cd5",
+        "id": "0aaa531f46935f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "7550ccacbdcd2270",
+            "id": "1896631c5b2878d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. template creation.md",
+                "file": "3. Notes/6. lexical analyzer using lex tool.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eadb616dde35de15",
+    "id": "a4266e3f4f339dfb",
     "type": "split",
     "children": [
       {
-        "id": "a3da571c6ea8c04a",
+        "id": "edf768b5d39b8843",
         "type": "tabs",
         "children": [
           {
-            "id": "a55bf85c95863762",
+            "id": "daec92f72746bd6b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "bad93dba69dcb3d6",
+            "id": "81b8399d7c1bb640",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7354fff699b3eb36",
+            "id": "5e53db0997b71aad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
-    "id": "ff20201f148f7eff",
+    "id": "96b7076c7418b434",
     "type": "split",
     "children": [
       {
-        "id": "9e40f2c8e0ebc1e8",
+        "id": "9f2fdfb8439cd202",
         "type": "tabs",
         "children": [
           {
-            "id": "fa3270c6cebb3f82",
+            "id": "c7dcaac8c55370f9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. template creation.md",
-                "collapseAll": false,
+                "file": "3. Notes/6. lexical analyzer using lex tool.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "0a9754d0156c02e5",
+            "id": "a5d3631b03c205c1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. template creation.md",
+                "file": "3. Notes/6. lexical analyzer using lex tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8d2664876e5684e1",
+            "id": "462d3232d251f132",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,16 +120,17 @@
             }
           },
           {
-            "id": "3134c89f24fe1147",
+            "id": "232ae2b614a80dcc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. template creation.md"
+                "file": "3. Notes/6. lexical analyzer using lex tool.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,24 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7550ccacbdcd2270",
+  "active": "1896631c5b2878d6",
   "lastOpenFiles": [
-    "1. rough notes/3. linking within a file.md",
-    "4. template creation.md",
-    "1. rough notes/2. tags , referances and indexes.md",
-    "1. rough notes/1.  common formatting.md",
-    "2. source materials/1. Youtube Videos.md",
-    "5. Template/Untitled",
-    "Story Log/Untitled.canvas",
-    "Story Log",
-    "6. Full Notes",
-    "5. Template",
-    "4. Indexes",
-    "3. Tags",
-    "Untitled 1.md",
-    "2. source materials",
-    "1. rough notes",
-    "2024-10-08.md",
+    "3. Notes/7. Lines, words, character count.md",
+    "3. Notes/6. lexical analyzer using lex tool.md",
+    "Questions.md",
+    "3. Notes/8. substring.md",
+    "5. resources/Pasted image 20241011211550.png",
+    "5. resources/Pasted image 20241011211534.png",
+    "5. resources/Pasted image 20241011211416.png",
+    "Untitled.md",
+    "5. resources",
+    "4. references",
+    "3. Notes",
+    "2. Cards",
+    "1. indexes",
     "Welcome.md"
   ]
 }

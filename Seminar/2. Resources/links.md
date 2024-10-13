@@ -3,3 +3,6 @@
 - [Drive link](https://drive.google.com/drive/u/1/folders/1wXAh2rV4Y2fLzmPeF95If-wm_kTu1EUq)
 - [figma link](https://www.figma.com/design/psyDu3nqkLaiFpf7Jl8OSE/seminar?node-id=76-2&node-type=canvas&t=mc4JSHDpZbD7h0OO-0)
 
+- [seminar report canva link](https://www.canva.com/design/DAGPbSbaxGs/EdZyS5_BM0JvM_ctc_iiWg/edit)
+- [adithya report link](https://www.canva.com/design/DAGPPtdYnrE/xZNNKiigaNviyFuOtlvaSQ/edit)
+

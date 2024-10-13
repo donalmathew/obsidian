@@ -121,14 +121,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Full Notes/c/compiler design/cycle 2/7. Lex program to display the number of lines, words, and characters in the input text..md",
+                "file": "5. Full Notes/c/compiler design/cycle 1/cycle 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f4b0e44547782f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Full Notes/c/compiler design/cycle 2/cycle 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Full Notes/c/compiler design/cycle 2/7. Lex program to display the number of lines, words, and characters in the input text..md",
+                "file": "5. Full Notes/c/compiler design/cycle 2/cycle 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Full Notes/c/compiler design/cycle 2/7. Lex program to display the number of lines, words, and characters in the input text..md",
+                "file": "5. Full Notes/c/compiler design/cycle 2/cycle 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Full Notes/c/compiler design/cycle 2/7. Lex program to display the number of lines, words, and characters in the input text..md"
+                "file": "5. Full Notes/c/compiler design/cycle 2/cycle 2.md"
               }
             }
           }
@@ -256,27 +268,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aee57b6f9ea4793c",
+  "active": "72f4b0e44547782f",
   "lastOpenFiles": [
-    "5. Full Notes/c/compiler design/cycle 2/6. Lexical analyzer for the given program using lex tool.md",
-    "5. Full Notes/c/compiler design/resources/Pasted image 20241008185716.png",
-    "5. Full Notes/c/compiler design/cycle 2/7. Lex program to display the number of lines, words, and characters in the input text..md",
     "5. Full Notes/c/compiler design/cycle 2/9. Lex program to find the total number of vowels and consonants from the given input string..md",
     "5. Full Notes/c/compiler design/cycle 2/8. Lex program to convert the substring abc to ABC from the given input string.md",
+    "5. Full Notes/c/compiler design/cycle 2/7. Lex program to display the number of lines, words, and characters in the input text..md",
+    "5. Full Notes/c/compiler design/cycle 2/6. Lexical analyzer for the given program using lex tool.md",
+    "5. Full Notes/c/compiler design/resources/cycle3.jpeg",
+    "5. Full Notes/c/compiler design/resources/cycle2.jpeg",
+    "5. Full Notes/c/compiler design/resources/cycle 1.jpeg",
+    "5. Full Notes/c/compiler design/resources/cycle 1 1.jpeg",
+    "5. Full Notes/c/compiler design/cycle 1/cycle 1.md",
+    "3. Tags/compiler_design_in_c.md",
+    "5. Full Notes/c/compiler design/resources/Pasted image 20241008185716.png",
     "5. Full Notes/c/compiler design/cycle 2/cycle 2.md",
     "5. Full Notes/c/compiler design/cycle 3/cycle 3.md",
-    "5. Full Notes/c/compiler design/cycle 1/cycle 1.md",
     "mind map.canvas",
     "5. Full Notes/c/compiler design/cycle 3",
     "5. Full Notes/c/compiler design/cycle 2",
     "5. Full Notes/c/compiler design/cycle 1",
     "4. Indexes/c.md",
     "Untitled 1.canvas",
-    "5. Full Notes/c/compiler design/resources/cycle 1.jpeg",
-    "5. Full Notes/c/compiler design/resources/cycle3.jpeg",
-    "5. Full Notes/c/compiler design/resources/cycle2.jpeg",
     "5. Full Notes/c/compiler design/resources",
-    "3. Tags/compiler_design_in_c.md",
     "c/compiler_design.md",
     "c",
     "5. Full Notes/c/compiler design",
