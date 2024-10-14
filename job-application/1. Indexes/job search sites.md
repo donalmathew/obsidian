@@ -1,6 +1,8 @@
 
 #### Search Sites
 - [the job search company](https://thejobcompany.in/)
+- naukri
+- glassdoor
 
 
 #### Companies-Direct

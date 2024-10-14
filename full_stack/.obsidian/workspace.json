@@ -1,35 +1,48 @@
 {
   "main": {
-    "id": "6e95dad52088aad1",
+    "id": "66c6b0bcfcfb0f5d",
     "type": "split",
     "children": [
       {
-        "id": "4e544fb6106a4da2",
+        "id": "64f666047fc1a181",
         "type": "tabs",
         "children": [
           {
-            "id": "72f4b0e44547782f",
+            "id": "56e2d487b8c06591",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0de93971889cc84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "160e28e8bcbc5a85",
+    "id": "bb164f00039fa5cc",
     "type": "split",
     "children": [
       {
-        "id": "a5d466440e77ba43",
+        "id": "68b880d3d4a350cd",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ca73cc7a93351a",
+            "id": "3ad848cbb72211a1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +52,12 @@
             }
           },
           {
-            "id": "f0d3d76331aea8bb",
+            "id": "76c2016208b503df",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#c/compiler_design",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +67,7 @@
             }
           },
           {
-            "id": "6ed618ac536bd5f0",
+            "id": "ab9810683f1ada5f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "2af17538ae7fa020",
+    "id": "6c304dcd2689750b",
     "type": "split",
     "children": [
       {
-        "id": "ed824dfdcc475758",
+        "id": "382bc050d84d751c",
         "type": "tabs",
         "children": [
           {
-            "id": "f8bbbd5aafdeed11",
+            "id": "2d7c13770b07ef41",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rough notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +106,19 @@
             }
           },
           {
-            "id": "fadecaf6ecbc7550",
+            "id": "f2b77349c8703705",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rough notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1f66a70bc291bab7",
+            "id": "408559a5c37ddf5b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,15 +129,16 @@
             }
           },
           {
-            "id": "e43c2237d791496f",
+            "id": "4c7742201750eeaf",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rough notes.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,35 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72f4b0e44547782f",
+  "active": "0de93971889cc84b",
   "lastOpenFiles": [
-    "5. Full Notes/c/compiler design/cycle 2/cycle 2.md",
-    "5. Full Notes/c/compiler design/cycle 2/9. Lex program to find the total number of vowels and consonants from the given input string..md",
-    "5. Full Notes/c/compiler design/cycle 2/8. Lex program to convert the substring abc to ABC from the given input string.md",
-    "5. Full Notes/c/compiler design/cycle 2/7. Lex program to display the number of lines, words, and characters in the input text..md",
-    "5. Full Notes/c/compiler design/cycle 2/6. Lexical analyzer for the given program using lex tool.md",
-    "5. Full Notes/c/compiler design/resources/cycle3.jpeg",
-    "5. Full Notes/c/compiler design/resources/cycle2.jpeg",
-    "5. Full Notes/c/compiler design/resources/cycle 1.jpeg",
-    "5. Full Notes/c/compiler design/resources/cycle 1 1.jpeg",
-    "5. Full Notes/c/compiler design/cycle 1/cycle 1.md",
-    "3. Tags/compiler_design_in_c.md",
-    "5. Full Notes/c/compiler design/resources/Pasted image 20241008185716.png",
-    "5. Full Notes/c/compiler design/cycle 3/cycle 3.md",
-    "mind map.canvas",
-    "5. Full Notes/c/compiler design/cycle 3",
-    "5. Full Notes/c/compiler design/cycle 2",
-    "5. Full Notes/c/compiler design/cycle 1",
-    "4. Indexes/c.md",
-    "Untitled 1.canvas",
-    "5. Full Notes/c/compiler design/resources",
-    "c/compiler_design.md",
-    "c",
-    "5. Full Notes/c/compiler design",
-    "Welcome.md",
-    "5. Full Notes/c",
-    "5. Full Notes",
-    "4. Indexes",
-    "3. Tags"
+    "Rough notes.md",
+    "Welcome.md"
   ]
 }
