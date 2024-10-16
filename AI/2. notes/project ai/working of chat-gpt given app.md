@@ -1,0 +1,5 @@
+- [[how env works]]
+- [[safeguarding api keys]]
+- [[pushing to github]]
+- [[if port 5000 already taken]]
+- 

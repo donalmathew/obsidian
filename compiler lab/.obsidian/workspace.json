@@ -23,12 +23,8 @@
             "id": "cf6ab7909618a926",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Notes/viva/set-1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Notes/viva/set-1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Notes/viva/set-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Notes/viva/set-1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,9 +154,9 @@
   },
   "active": "cf6ab7909618a926",
   "lastOpenFiles": [
+    "3. Notes/viva/set-1.md",
     "1. indexes/viva questions.md",
     "1. indexes/Lab Questions.md",
-    "3. Notes/viva/set-1.md",
     "3. Notes/viva",
     "3. Notes/6. lexical analyzer using lex tool.md",
     "3. Notes/8. substring.md",
