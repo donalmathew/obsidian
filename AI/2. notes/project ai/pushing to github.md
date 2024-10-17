@@ -53,3 +53,6 @@ see all the installed libraries:
 ```bash
 pip list
 ```
+
+
+- as the api key will not uploaded, insert anyone's api key into app.py inorder to make work

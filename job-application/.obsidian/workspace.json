@@ -4,98 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9bae4b411a4f794b",
+        "id": "a4bbced736e25581",
         "type": "tabs",
         "children": [
           {
-            "id": "4cb6f1417ab4d22a",
+            "id": "72a878d64fd4ba21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c02ee346ff1b4e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. skills learning/full stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "599f30bb1daf9328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. companies/3. accenture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba610812eecaacc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Sutherland Consultant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ef5897e0ab4d608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. skills learning/dsa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3af69278d06a6d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. companies/2. Disprz - Associate Software Engineer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "2b91c433c268438f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c725877fd72aea96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. companies/3. accenture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -164,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. companies/3. accenture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. companies/3. accenture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. companies/3. accenture.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -225,22 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c725877fd72aea96",
+  "active": "72a878d64fd4ba21",
   "lastOpenFiles": [
-    "4. Sutherland Consultant.md",
+    "3. companies/5. navy.md",
+    "3. companies/2. Disprz - Associate Software Engineer.md",
+    "3. companies/bank exams.md",
+    "1. Indexes/2. To be applied.md",
     "1. Indexes/1. Ongoing.md",
+    "3. companies/4. Sutherland Consultant.md",
+    "6. skills learning/dsa.md",
     "3. companies/3. accenture.md",
+    "6. skills learning/full stack.md",
+    "Welcome.md",
     "1. Indexes/skills.md",
     "1. Indexes/job search sites.md",
-    "1. Indexes/2. To be applied.md",
     "1. Indexes/3. Done.md",
     "2. tags/college.md",
     "3. companies/1. Harman - Internship Data and Analytics.md",
-    "3. companies/2. Disprz - Associate Software Engineer.md",
     "6. skills learning/ai.md",
-    "6. skills learning/full stack.md",
-    "Welcome.md",
-    "6. skills learning/dsa.md",
     "6. skills learning",
     "2. tags/the job search company.md",
     "4. links/General links.md",

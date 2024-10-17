@@ -71,8 +71,12 @@
             "id": "81031260b1a79d50",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. notes/project ai/pushing to github.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -142,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. notes/project ai/pushing to github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. notes/project ai/pushing to github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. notes/project ai/pushing to github.md"
+              }
             }
           }
         ]
@@ -200,15 +208,15 @@
   },
   "active": "81031260b1a79d50",
   "lastOpenFiles": [
+    "2. notes/project ai/working of chat-gpt given app.md",
+    "2. notes/project ai/how env works.md",
+    "2. notes/project ai/1. index ai.md",
+    "2. notes/project ai/chat gpt answer.md",
     "1. rough notes/video 1.md",
     "1. rough notes/1. anaconda and pycharm setup.md",
     "1. rough notes/uploading environment to github.md",
-    "2. notes/project ai/chat gpt answer.md",
-    "2. notes/project ai/1. index ai.md",
-    "2. notes/project ai/working of chat-gpt given app.md",
     "if port 5000 already taken.md",
     "2. notes/project ai/pushing to github.md",
-    "2. notes/project ai/how env works.md",
     "safeguarding api keys.md",
     "2. notes",
     "2. notes/project ai/prompt for ai.md",
