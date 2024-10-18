@@ -22,17 +22,31 @@
       }
     },
     {
-      "query": "file:to",
+      "query": "file:to be",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "done",
+      "query": "file:done",
       "color": {
         "a": 1,
         "rgb": 6084188
+      }
+    },
+    {
+      "query": "file:college",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "file:job search",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
