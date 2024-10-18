@@ -119,31 +119,12 @@
             "id": "aeb4bcaf84510b7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_journal/oct 2024/2024-10-18.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
-        "id": "4e7f9b1464411711",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fead1d8ab3fdfb9c",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -246,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "f.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -268,24 +247,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5626023394b8f758",
+  "active": "aeb4bcaf84510b7a",
   "lastOpenFiles": [
-    "f.md",
-    "3_journal/oct 2024/2024-10-18.md",
-    "3_journal/oct 2024",
+    "1_indexes/2024.md",
+    "1_indexes/income.md",
     "1_indexes/2024 oct.md",
+    "2_tags/mutth.md",
     "2_tags/food.md",
+    "3_journal/oct 2024/2024-10-18.md",
+    "4_links/links.md",
+    "f.md",
+    "3_journal/oct 2024",
     "1_indexes/2024 nov.md",
     "1_indexes/2024 dec.md",
     "2_tags/miscelleneus.md",
     "2_tags/academic.md",
     "2_tags/household.md",
     "2_tags/entertainment.md",
-    "1_indexes/2024.md",
-    "2_tags/mutth.md",
-    "1_indexes/income.md",
     "1_indexes/expense.md",
-    "4_links/links.md",
     "2_tags/appa.md",
     "2_tags/amma.md",
     "Welcome.md",
