@@ -1,4 +1,4 @@
-: [[4. Indexes/report|report]]
+: [[seminar report|seminar report]]
 
 ### Introduction
 

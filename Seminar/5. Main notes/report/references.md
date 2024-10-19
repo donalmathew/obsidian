@@ -1,4 +1,4 @@
-[[4. Indexes/report|report]]
+[[seminar report|seminar report]]
 
 
 1. A. Klettke, M. Nürnberg, A. Heuer, and S. Scherzinger, "Towards a Taxonomy of Schema Changes for NoSQL Databases: The Orion Language," _Lecture Notes in Computer Science (LNCS)_, Springer, vol. 9506, pp. 255-270, 2015.

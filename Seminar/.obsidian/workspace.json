@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63e61ac98046328c",
+        "id": "742feed801d2c674",
         "type": "tabs",
         "children": [
           {
-            "id": "6acf4af96ed62b1f",
+            "id": "0ebf7a6d485fb129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Indexes/report.md",
+                "file": "4. Indexes/project report.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Indexes/report.md",
+                "file": "4. Indexes/project report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Indexes/report.md",
+                "file": "4. Indexes/project report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Indexes/report.md"
+                "file": "4. Indexes/project report.md"
               }
             }
           }
@@ -147,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6acf4af96ed62b1f",
+  "active": "ae8b4c201084256d",
   "lastOpenFiles": [
+    "4. Indexes/project report.md",
+    "4. Indexes/seminar report.md",
     "4. Indexes/seminar.md",
-    "4. Indexes/report.md",
-    "7. Research Papers/gist.md",
-    "7. Research Papers/1 research papers.md",
+    "5. Main notes/4. Research Papers/gist.md",
+    "5. Main notes/4. Research Papers/1 research papers.md",
     "5. Main notes/report/references.md",
     "2. Resources/links.md",
     "5. Main notes/report/introduction.md",
@@ -182,7 +183,7 @@
     "5. Main notes/1. Introduction/1.md",
     "5. Main notes/3. Distributed Database systems and cap theorem/3.2 CAP theorem/CAP Theorem.md",
     "5. Main notes/1. Introduction",
-    "7. Research Papers",
+    "5. Main notes/4. Research Papers",
     "6. Report",
     "5. Main notes/2. NoSQL and Polyglot persistence/2.2 Polyglot Persistence",
     "5. Main notes/3. Distributed Database systems and cap theorem/3.2 CAP theorem",

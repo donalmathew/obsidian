@@ -1,5 +1,5 @@
 
-:[[4. Indexes/report|report]]
+:[[seminar report|seminar report]]
 
 ![[Pasted image 20241011114510.png]]
 

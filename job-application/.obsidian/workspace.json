@@ -11,8 +11,12 @@
             "id": "72a878d64fd4ba21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. companies/5.1_navy_to-do.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. companies/5.1_navy_to-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. companies/5.1_navy_to-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. companies/5.1_navy_to-do.md"
+              }
             }
           }
         ]
@@ -140,24 +148,25 @@
   },
   "active": "72a878d64fd4ba21",
   "lastOpenFiles": [
-    "3. companies/5. navy.md",
-    "Pasted image 20241018160055.png",
-    "Pasted image 20241018160005.png",
-    "Pasted image 20241018155307.png",
-    "3. companies/2. Disprz - Associate Software Engineer.md",
-    "3. companies/bank exams.md",
+    "3. companies/5_navy.md",
+    "3. companies/5.1_navy_to-do.md",
+    "3. companies/1_Harman - Internship Data and Analytics.md",
+    "3. companies/2_Disprz - Associate Software Engineer.md",
+    "3. companies/3_accenture.md",
+    "3. companies/4_Sutherland Consultant.md",
+    "3. companies/6_bank exams.md",
+    "5. Resources/Pasted image 20241018160005.png",
+    "5. Resources/Pasted image 20241018155307.png",
+    "5. Resources/Pasted image 20241018160055.png",
     "1. Indexes/2. To be applied.md",
     "1. Indexes/1. Ongoing.md",
-    "3. companies/4. Sutherland Consultant.md",
     "6. skills learning/dsa.md",
-    "3. companies/3. accenture.md",
     "6. skills learning/full stack.md",
     "Welcome.md",
     "1. Indexes/skills.md",
     "1. Indexes/job search sites.md",
     "1. Indexes/3. Done.md",
     "2. tags/college.md",
-    "3. companies/1. Harman - Internship Data and Analytics.md",
     "6. skills learning/ai.md",
     "6. skills learning",
     "2. tags/the job search company.md",
