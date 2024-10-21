@@ -11,8 +11,26 @@
             "id": "e38a1e3eb36a4780",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0981c17b4e5ff94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0549663b4070299f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_journal/oct 2024/2024-10-18.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -140,7 +158,13 @@
   },
   "active": "e38a1e3eb36a4780",
   "lastOpenFiles": [
+    "2_tags/mutth.md",
+    "1_indexes/2024 oct.md",
+    "2_tags/appa.md",
+    "2_tags/food.md",
+    "2024-10-21.md",
     "1_indexes/expense.md",
+    "2_tags/entertainment.md",
     "3_journal/oct 2024/2024-10-18.md",
     "3_journal/oct 2024/2024-10-19.md",
     "3_journal/oct 2024/2024-10-20.md",
@@ -150,15 +174,10 @@
     "1_indexes/2024.md",
     "2_tags/scooter.md",
     "1_indexes/2024 nov.md",
-    "1_indexes/2024 oct.md",
     "1_indexes/income.md",
     "2_tags/academic.md",
     "2_tags/amma.md",
-    "2_tags/appa.md",
-    "2_tags/entertainment.md",
-    "2_tags/food.md",
     "2_tags/household.md",
-    "2_tags/mutth.md",
     "f.md",
     "3_journal/oct 2024",
     "1_indexes/2024 dec.md",
