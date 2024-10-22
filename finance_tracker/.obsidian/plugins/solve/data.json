@@ -1,6 +1,6 @@
 {
   "engine": {
-    "explicitMode": false
+    "explicitMode": true
   },
   "interface": {
     "renderResultEndOfLine": false,

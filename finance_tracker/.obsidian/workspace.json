@@ -11,8 +11,12 @@
             "id": "e38a1e3eb36a4780",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2_tags/scooter.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_tags/scooter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_tags/scooter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_tags/scooter.md"
+              }
             }
           }
         ]
@@ -158,11 +166,11 @@
   },
   "active": "e38a1e3eb36a4780",
   "lastOpenFiles": [
+    "3_journal/oct 2024/2024-10-21.md",
     "2_tags/mutth.md",
     "1_indexes/2024 oct.md",
     "2_tags/appa.md",
     "2_tags/food.md",
-    "2024-10-21.md",
     "1_indexes/expense.md",
     "2_tags/entertainment.md",
     "3_journal/oct 2024/2024-10-18.md",
